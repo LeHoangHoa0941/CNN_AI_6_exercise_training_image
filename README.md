@@ -1,5 +1,5 @@
 # CNN_AI_6_exercise_training_image
-Here is a 5 files of imaged data that I use to training:
+Here are 5 files of image data that I use for training:
 
 the money:
 https://drive.google.com/drive/folders/1VKu5gDqkdZVY_qyx9TYVhhlLE4XrNABn?usp=sharing
