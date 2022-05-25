@@ -1,5 +1,5 @@
 # CNN_AI_6_exercise_training_image
-Here is a 6 file data that i use to training 
+Here is a 5 file data that i use to training 
 
 the money:
 
